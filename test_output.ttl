@@ -1,0 +1,64 @@
+@prefix ns1: <http://example.org/ontology/wikivoyage#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Amsterdam_Marriott_Hotel a ns1:Hotel,
+        ns1:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "Amsterdam Marriott Hotel" ;
+    ns1:hasCategory ns1:sleep ;
+    ns1:hasLocation ns1:Amsterdam_West ;
+    ns1:latitude 5.236256e+01,
+        5.236256e+01 ;
+    ns1:longitude 4.880102e+00 .
+
+ns1:Hotel_ABBA a ns1:Hotel,
+        ns1:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "Hotel ABBA" ;
+    ns1:hasCategory ns1:sleep ;
+    ns1:hasLocation ns1:Amsterdam_West ;
+    ns1:latitude 5.236277e+01,
+        5.236277e+01 ;
+    ns1:longitude 4.874552e+00 .
+
+ns1:Hotel_Espresso_City_Center a ns1:Hotel,
+        ns1:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "Hotel Espresso City Center" ;
+    ns1:hasCategory ns1:sleep ;
+    ns1:hasLocation ns1:Amsterdam_West ;
+    ns1:latitude 5.23629e+01 ;
+    ns1:longitude 4.8764e+00 .
+
+ns1:Park_Plaza_Amsterdam_Airport a ns1:Hotel,
+        ns1:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "Park Plaza Amsterdam Airport" ;
+    ns1:hasCategory ns1:sleep ;
+    ns1:hasLocation ns1:Amsterdam_West ;
+    ns1:latitude 5.234859e+01,
+        5.234859e+01 ;
+    ns1:longitude 4.765281e+00 .
+
+ns1:Roemer_Hotel a ns1:Hotel,
+        ns1:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "Roemer Hotel" ;
+    ns1:hasCategory ns1:sleep ;
+    ns1:hasLocation ns1:Amsterdam_West ;
+    ns1:latitude 5.236177e+01,
+        5.236177e+01 ;
+    ns1:longitude 4.877998e+00 .
+
+ns1:Stayokay_Vondelpark a ns1:Hotel,
+        ns1:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "Stayokay Vondelpark" ;
+    ns1:hasCategory ns1:sleep ;
+    ns1:hasLocation ns1:Amsterdam_West ;
+    ns1:latitude 5.236115e+01,
+        5.236115e+01 ;
+    ns1:longitude 4.878186e+00 .
+

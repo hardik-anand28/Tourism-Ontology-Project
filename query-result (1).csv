@@ -1,0 +1,61 @@
+hotel,p,o
+http://example.org/ontology/wikivoyage#Amsterdam_Marriott_Hotel,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2002/07/owl#NamedIndividual
+http://example.org/ontology/wikivoyage#Amsterdam_Marriott_Hotel,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Hotel
+http://example.org/ontology/wikivoyage#Amsterdam_Marriott_Hotel,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Thing
+http://example.org/ontology/wikivoyage#Amsterdam_Marriott_Hotel,http://www.w3.org/2000/01/rdf-schema#label,Amsterdam Marriott Hotel
+http://example.org/ontology/wikivoyage#Amsterdam_Marriott_Hotel,http://example.org/ontology/wikivoyage#hasCategory,http://example.org/ontology/wikivoyage#sleep
+http://example.org/ontology/wikivoyage#Amsterdam_Marriott_Hotel,http://example.org/ontology/wikivoyage#hasLocation,http://example.org/ontology/wikivoyage#Amsterdam_West
+http://example.org/ontology/wikivoyage#Amsterdam_Marriott_Hotel,http://example.org/ontology/wikivoyage#latitude,5.236256E1
+http://example.org/ontology/wikivoyage#Amsterdam_Marriott_Hotel,http://example.org/ontology/wikivoyage#latitude,5.2362557E1
+http://example.org/ontology/wikivoyage#Amsterdam_Marriott_Hotel,http://example.org/ontology/wikivoyage#longitude,4.880102E0
+http://example.org/ontology/wikivoyage#Amsterdam_Marriott_Hotel,http://example.org/ontology/wikivoyage#longitude,4.880102E0
+http://example.org/ontology/wikivoyage#Hotel_ABBA,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2002/07/owl#NamedIndividual
+http://example.org/ontology/wikivoyage#Hotel_ABBA,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Hotel
+http://example.org/ontology/wikivoyage#Hotel_ABBA,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Thing
+http://example.org/ontology/wikivoyage#Hotel_ABBA,http://www.w3.org/2000/01/rdf-schema#label,Hotel ABBA
+http://example.org/ontology/wikivoyage#Hotel_ABBA,http://example.org/ontology/wikivoyage#hasCategory,http://example.org/ontology/wikivoyage#sleep
+http://example.org/ontology/wikivoyage#Hotel_ABBA,http://example.org/ontology/wikivoyage#hasLocation,http://example.org/ontology/wikivoyage#Amsterdam_West
+http://example.org/ontology/wikivoyage#Hotel_ABBA,http://example.org/ontology/wikivoyage#latitude,5.236277E1
+http://example.org/ontology/wikivoyage#Hotel_ABBA,http://example.org/ontology/wikivoyage#latitude,5.2362765E1
+http://example.org/ontology/wikivoyage#Hotel_ABBA,http://example.org/ontology/wikivoyage#longitude,4.874552E0
+http://example.org/ontology/wikivoyage#Hotel_ABBA,http://example.org/ontology/wikivoyage#longitude,4.874552E0
+http://example.org/ontology/wikivoyage#Hotel_Espresso_City_Center,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2002/07/owl#NamedIndividual
+http://example.org/ontology/wikivoyage#Hotel_Espresso_City_Center,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Hotel
+http://example.org/ontology/wikivoyage#Hotel_Espresso_City_Center,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Thing
+http://example.org/ontology/wikivoyage#Hotel_Espresso_City_Center,http://www.w3.org/2000/01/rdf-schema#label,Hotel Espresso City Center
+http://example.org/ontology/wikivoyage#Hotel_Espresso_City_Center,http://example.org/ontology/wikivoyage#hasCategory,http://example.org/ontology/wikivoyage#sleep
+http://example.org/ontology/wikivoyage#Hotel_Espresso_City_Center,http://example.org/ontology/wikivoyage#hasLocation,http://example.org/ontology/wikivoyage#Amsterdam_West
+http://example.org/ontology/wikivoyage#Hotel_Espresso_City_Center,http://example.org/ontology/wikivoyage#latitude,5.23629E1
+http://example.org/ontology/wikivoyage#Hotel_Espresso_City_Center,http://example.org/ontology/wikivoyage#latitude,5.23629E1
+http://example.org/ontology/wikivoyage#Hotel_Espresso_City_Center,http://example.org/ontology/wikivoyage#longitude,4.8764E0
+http://example.org/ontology/wikivoyage#Hotel_Espresso_City_Center,http://example.org/ontology/wikivoyage#longitude,4.8764E0
+http://example.org/ontology/wikivoyage#Park_Plaza_Amsterdam_Airport,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2002/07/owl#NamedIndividual
+http://example.org/ontology/wikivoyage#Park_Plaza_Amsterdam_Airport,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Hotel
+http://example.org/ontology/wikivoyage#Park_Plaza_Amsterdam_Airport,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Thing
+http://example.org/ontology/wikivoyage#Park_Plaza_Amsterdam_Airport,http://www.w3.org/2000/01/rdf-schema#label,Park Plaza Amsterdam Airport
+http://example.org/ontology/wikivoyage#Park_Plaza_Amsterdam_Airport,http://example.org/ontology/wikivoyage#hasCategory,http://example.org/ontology/wikivoyage#sleep
+http://example.org/ontology/wikivoyage#Park_Plaza_Amsterdam_Airport,http://example.org/ontology/wikivoyage#hasLocation,http://example.org/ontology/wikivoyage#Amsterdam_West
+http://example.org/ontology/wikivoyage#Park_Plaza_Amsterdam_Airport,http://example.org/ontology/wikivoyage#latitude,5.234859E1
+http://example.org/ontology/wikivoyage#Park_Plaza_Amsterdam_Airport,http://example.org/ontology/wikivoyage#latitude,5.2348587E1
+http://example.org/ontology/wikivoyage#Park_Plaza_Amsterdam_Airport,http://example.org/ontology/wikivoyage#longitude,4.765281E0
+http://example.org/ontology/wikivoyage#Park_Plaza_Amsterdam_Airport,http://example.org/ontology/wikivoyage#longitude,4.765281E0
+http://example.org/ontology/wikivoyage#Roemer_Hotel,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2002/07/owl#NamedIndividual
+http://example.org/ontology/wikivoyage#Roemer_Hotel,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Hotel
+http://example.org/ontology/wikivoyage#Roemer_Hotel,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Thing
+http://example.org/ontology/wikivoyage#Roemer_Hotel,http://www.w3.org/2000/01/rdf-schema#label,Roemer Hotel
+http://example.org/ontology/wikivoyage#Roemer_Hotel,http://example.org/ontology/wikivoyage#hasCategory,http://example.org/ontology/wikivoyage#sleep
+http://example.org/ontology/wikivoyage#Roemer_Hotel,http://example.org/ontology/wikivoyage#hasLocation,http://example.org/ontology/wikivoyage#Amsterdam_West
+http://example.org/ontology/wikivoyage#Roemer_Hotel,http://example.org/ontology/wikivoyage#latitude,5.236177E1
+http://example.org/ontology/wikivoyage#Roemer_Hotel,http://example.org/ontology/wikivoyage#latitude,5.2361774E1
+http://example.org/ontology/wikivoyage#Roemer_Hotel,http://example.org/ontology/wikivoyage#longitude,4.877998E0
+http://example.org/ontology/wikivoyage#Roemer_Hotel,http://example.org/ontology/wikivoyage#longitude,4.877998E0
+http://example.org/ontology/wikivoyage#Stayokay_Vondelpark,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2002/07/owl#NamedIndividual
+http://example.org/ontology/wikivoyage#Stayokay_Vondelpark,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Hotel
+http://example.org/ontology/wikivoyage#Stayokay_Vondelpark,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://example.org/ontology/wikivoyage#Thing
+http://example.org/ontology/wikivoyage#Stayokay_Vondelpark,http://www.w3.org/2000/01/rdf-schema#label,Stayokay Vondelpark
+http://example.org/ontology/wikivoyage#Stayokay_Vondelpark,http://example.org/ontology/wikivoyage#hasCategory,http://example.org/ontology/wikivoyage#sleep
+http://example.org/ontology/wikivoyage#Stayokay_Vondelpark,http://example.org/ontology/wikivoyage#hasLocation,http://example.org/ontology/wikivoyage#Amsterdam_West
+http://example.org/ontology/wikivoyage#Stayokay_Vondelpark,http://example.org/ontology/wikivoyage#latitude,5.236115E1
+http://example.org/ontology/wikivoyage#Stayokay_Vondelpark,http://example.org/ontology/wikivoyage#latitude,5.2361146E1
+http://example.org/ontology/wikivoyage#Stayokay_Vondelpark,http://example.org/ontology/wikivoyage#longitude,4.878186E0
+http://example.org/ontology/wikivoyage#Stayokay_Vondelpark,http://example.org/ontology/wikivoyage#longitude,4.878186E0
